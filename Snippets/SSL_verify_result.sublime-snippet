@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SSL::verify_result ${1:[<result} ${2:code>]}]]></content>
+<tabTrigger>SSL::verify_result</tabTrigger><scope>source.appshape</scope>
+<description>SSL::verify_result...</description>
+</snippet>

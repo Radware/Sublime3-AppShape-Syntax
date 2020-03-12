@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SSL::sessionid]]></content>
+<tabTrigger>SSL::sessionid</tabTrigger><scope>source.appshape</scope>
+<description>SSL::sessionid...</description>
+</snippet>

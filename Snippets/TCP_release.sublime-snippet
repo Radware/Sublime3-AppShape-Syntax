@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[TCP::release ${1:[<length>]}]]></content>
+<tabTrigger>TCP::release</tabTrigger><scope>source.appshape</scope>
+<description>TCP::release...</description>
+</snippet>

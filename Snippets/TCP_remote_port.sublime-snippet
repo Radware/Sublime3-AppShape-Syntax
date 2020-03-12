@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[TCP::remote_port]]></content>
+<tabTrigger>TCP::remote_port</tabTrigger><scope>source.appshape</scope>
+<description>TCP::remote_port...</description>
+</snippet>

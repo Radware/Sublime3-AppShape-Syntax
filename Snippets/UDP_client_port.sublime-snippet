@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[UDP::client_port]]></content>
+<tabTrigger>UDP::client_port</tabTrigger><scope>source.appshape</scope>
+<description>UDP::client_port...</description>
+</snippet>

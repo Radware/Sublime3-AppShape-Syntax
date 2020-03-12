@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SSL::mode]]></content>
+<tabTrigger>SSL::mode</tabTrigger><scope>source.appshape</scope>
+<description>SSL::mode...</description>
+</snippet>

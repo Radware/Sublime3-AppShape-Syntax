@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[UDP::respond ${1:<data>}]]></content>
+<tabTrigger>UDP::respond</tabTrigger><scope>source.appshape</scope>
+<description>UDP::respond...</description>
+</snippet>

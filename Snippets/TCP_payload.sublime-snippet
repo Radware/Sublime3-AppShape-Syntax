@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[TCP::payload ${1:clear}]]></content>
+<tabTrigger>TCP::payload</tabTrigger><scope>source.appshape</scope>
+<description>TCP::payload...</description>
+</snippet>

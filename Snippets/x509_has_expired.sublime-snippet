@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[x509::has_expired ${1:<certificate>}]]></content>
+<tabTrigger>x509::has_expired</tabTrigger><scope>source.appshape</scope>
+<description>x509::has_expired...</description>
+</snippet>

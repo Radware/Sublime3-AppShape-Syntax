@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[TCP::close ${1:twoway}]]></content>
+<tabTrigger>TCP::close</tabTrigger><scope>source.appshape</scope>
+<description>TCP::close...</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[whereis ${1:<ip} ${2:address>} ${3:[continent} ${4:|} ${5:country_code} ${6:|} ${7:state} ${8:|} ${9:city} ${10:|} ${11:zip} ${12:|} ${13:latitude} ${14:|} ${15:longitude]}]]></content>
+<tabTrigger>whereis</tabTrigger><scope>source.appshape</scope>
+<description>whereis...</description>
+</snippet>

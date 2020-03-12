@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SSL::reject]]></content>
+<tabTrigger>SSL::reject</tabTrigger><scope>source.appshape</scope>
+<description>SSL::reject...</description>
+</snippet>

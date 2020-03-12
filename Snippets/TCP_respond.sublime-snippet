@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[TCP::respond ${1:<data>}]]></content>
+<tabTrigger>TCP::respond</tabTrigger><scope>source.appshape</scope>
+<description>TCP::respond...</description>
+</snippet>

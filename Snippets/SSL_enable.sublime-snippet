@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SSL::enable]]></content>
+<tabTrigger>SSL::enable</tabTrigger><scope>source.appshape</scope>
+<description>SSL::enable...</description>
+</snippet>

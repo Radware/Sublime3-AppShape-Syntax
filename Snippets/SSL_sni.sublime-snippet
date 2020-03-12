@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SSL::sni ${1:set} ${2:<value>}]]></content>
+<tabTrigger>SSL::sni</tabTrigger><scope>source.appshape</scope>
+<description>SSL::sni...</description>
+</snippet>

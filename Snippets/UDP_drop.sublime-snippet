@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[UDP::drop]]></content>
+<tabTrigger>UDP::drop</tabTrigger><scope>source.appshape</scope>
+<description>UDP::drop...</description>
+</snippet>

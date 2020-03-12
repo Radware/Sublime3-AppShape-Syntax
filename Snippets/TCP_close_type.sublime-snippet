@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[TCP::close_type]]></content>
+<tabTrigger>TCP::close_type</tabTrigger><scope>source.appshape</scope>
+<description>TCP::close_type...</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SSL::version]]></content>
+<tabTrigger>SSL::version</tabTrigger><scope>source.appshape</scope>
+<description>SSL::version...</description>
+</snippet>

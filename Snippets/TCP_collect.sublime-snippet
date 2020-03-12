@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[TCP::collect ${1:[<bytes>][connect-server]}]]></content>
+<tabTrigger>TCP::collect</tabTrigger><scope>source.appshape</scope>
+<description>TCP::collect...</description>
+</snippet>

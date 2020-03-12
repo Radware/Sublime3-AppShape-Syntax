@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[table ${1:timeout} ${2:[-notouch]} ${3:[-subtable} ${4:<name>]} ${5:[--]} ${6:<key>} ${7:<timeout>}]]></content>
+<tabTrigger>table</tabTrigger><scope>source.appshape</scope>
+<description>table...</description>
+</snippet>

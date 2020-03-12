@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[UDP::payload ${1:clear}]]></content>
+<tabTrigger>UDP::payload</tabTrigger><scope>source.appshape</scope>
+<description>UDP::payload...</description>
+</snippet>
