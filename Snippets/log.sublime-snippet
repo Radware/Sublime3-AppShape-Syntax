@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[log -a 7 "${1:<message>}"]]></content>
+<tabTrigger>log</tabTrigger><scope>source.appshape</scope>
+<description>log...</description>
+</snippet>
