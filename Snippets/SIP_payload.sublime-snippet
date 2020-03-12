@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SIP::payload]]></content>
+<tabTrigger>SIP::payload</tabTrigger><scope>source.appshape</scope>
+<description>SIP::payload...</description>
+</snippet>

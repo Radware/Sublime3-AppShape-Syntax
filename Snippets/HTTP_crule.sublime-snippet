@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::crule ${1:select} ${2:<rule} ${3:ID>}]]></content>
+<tabTrigger>HTTP::crule</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::crule...</description>
+</snippet>

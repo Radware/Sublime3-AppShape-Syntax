@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[LB::reselect ${1:[group} ${2:<ID>} ${3:[server} ${4:<ID|IP>} ${5:[<port>]]]}]]></content>
+<tabTrigger>LB::reselect</tabTrigger><scope>source.appshape</scope>
+<description>LB::reselect...</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[attach ${1:[snat|group]} ${2:<IP address|group name>}]]></content>
+<tabTrigger>attach</tabTrigger><scope>source.appshape</scope>
+<description>Declares objects to be used by the AS++ in a manner different than their configuration</description>
+</snippet>

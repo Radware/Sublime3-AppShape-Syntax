@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[DNS::edns0 ${1:subnet} ${2:<address|source|scope>} ${3:[<IP|int|int>]}]]></content>
+<tabTrigger>DNS::edns0</tabTrigger><scope>source.appshape</scope>
+<description>DNS::edns0...</description>
+</snippet>

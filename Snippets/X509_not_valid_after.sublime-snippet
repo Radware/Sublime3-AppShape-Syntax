@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[X509::not_valid_after ${1:[<certificate>]}]]></content>
+<tabTrigger>X509::not_valid_after</tabTrigger><scope>source.appshape</scope>
+<description>X509::not_valid_after...</description>
+</snippet>

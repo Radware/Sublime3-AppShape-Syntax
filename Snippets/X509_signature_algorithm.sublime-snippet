@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[X509::signature_algorithm ${1:[<certificate>]}]]></content>
+<tabTrigger>X509::signature_algorithm</tabTrigger><scope>source.appshape</scope>
+<description>X509::signature_algorithm...</description>
+</snippet>

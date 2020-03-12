@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SIP::respond ${1:<status} ${2:code>} ${3:[<reason} ${4:phrase>]} ${5:[<header} ${6:name>} ${7:<header} ${8:value>]+}]]></content>
+<tabTrigger>SIP::respond</tabTrigger><scope>source.appshape</scope>
+<description>SIP::respond...</description>
+</snippet>

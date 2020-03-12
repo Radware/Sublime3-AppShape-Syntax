@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[X509::hash ${1:[<certificate>]}]]></content>
+<tabTrigger>X509::hash</tabTrigger><scope>source.appshape</scope>
+<description>X509::hash...</description>
+</snippet>

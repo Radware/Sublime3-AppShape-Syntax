@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SIP::call_id]]></content>
+<tabTrigger>SIP::call_id</tabTrigger><scope>source.appshape</scope>
+<description>SIP::call_id...</description>
+</snippet>

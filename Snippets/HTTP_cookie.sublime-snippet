@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::cookie ${1:set} ${2:<name>} ${3:[value} ${4:<value>]} ${5:[path} ${6:<path>]} ${7:[domain} ${8:<domain>]} ${9:[}]]></content>
+<tabTrigger>HTTP::cookie</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::cookie...</description>
+</snippet>

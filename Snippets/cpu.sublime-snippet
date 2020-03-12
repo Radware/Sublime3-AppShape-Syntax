@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[cpu ${1:usage} ${2:[} ${3:1} ${4:|} ${5:4} ${6:|} ${7:64]}]]></content>
+<tabTrigger>cpu</tabTrigger><scope>source.appshape</scope>
+<description>cpu...</description>
+</snippet>

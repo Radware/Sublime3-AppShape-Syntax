@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[LB::status ${1:[group} ${2:<group} ${3:id>} ${4:server} ${5:<ID|IP>} ${6:[<port>]]}]]></content>
+<tabTrigger>LB::status</tabTrigger><scope>source.appshape</scope>
+<description>LB::status...</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[DNS::rdata ${1:<rr>} ${2:[<value>]}]]></content>
+<tabTrigger>DNS::rdata</tabTrigger><scope>source.appshape</scope>
+<description>DNS::rdata...</description>
+</snippet>

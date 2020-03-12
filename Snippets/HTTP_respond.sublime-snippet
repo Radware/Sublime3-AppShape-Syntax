@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::respond ${1:<request} ${2:string>}]]></content>
+<tabTrigger>HTTP::respond</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::respond...</description>
+</snippet>

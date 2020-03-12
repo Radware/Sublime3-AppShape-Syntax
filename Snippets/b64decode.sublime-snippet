@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[b64decode ${1:<orig_string>}]]></content>
+<tabTrigger>b64decode</tabTrigger><scope>source.appshape</scope>
+<description>b64decode...</description>
+</snippet>

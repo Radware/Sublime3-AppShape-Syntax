@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[IP::server_addr]]></content>
+<tabTrigger>IP::server_addr</tabTrigger><scope>source.appshape</scope>
+<description>IP::server_addr...</description>
+</snippet>

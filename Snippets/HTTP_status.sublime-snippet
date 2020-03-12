@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::status]]></content>
+<tabTrigger>HTTP::status</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::status...</description>
+</snippet>

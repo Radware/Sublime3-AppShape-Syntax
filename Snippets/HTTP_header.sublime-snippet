@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::header ${1:method}]]></content>
+<tabTrigger>HTTP::header</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::header...</description>
+</snippet>

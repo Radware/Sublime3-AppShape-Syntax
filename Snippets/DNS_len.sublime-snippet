@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[DNS::len]]></content>
+<tabTrigger>DNS::len</tabTrigger><scope>source.appshape</scope>
+<description>DNS::len...</description>
+</snippet>

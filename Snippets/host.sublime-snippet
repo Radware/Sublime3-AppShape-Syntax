@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[host ${1:<IP>} ${2:[<port>]}]]></content>
+<tabTrigger>host</tabTrigger><scope>source.appshape</scope>
+<description>host...</description>
+</snippet>

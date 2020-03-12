@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SIP::header ${1:replace} ${2:<name>} ${3:<value>} ${4:[<index>]}]]></content>
+<tabTrigger>SIP::header</tabTrigger><scope>source.appshape</scope>
+<description>SIP::header...</description>
+</snippet>

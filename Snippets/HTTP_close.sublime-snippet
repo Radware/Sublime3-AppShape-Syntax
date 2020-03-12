@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::close]]></content>
+<tabTrigger>HTTP::close</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::close...</description>
+</snippet>

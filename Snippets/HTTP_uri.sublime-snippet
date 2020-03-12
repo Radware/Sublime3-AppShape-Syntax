@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::uri ${1:[<uri>]}]]></content>
+<tabTrigger>HTTP::uri</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::uri...</description>
+</snippet>

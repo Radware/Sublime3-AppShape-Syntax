@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::disable]]></content>
+<tabTrigger>HTTP::disable</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::disable...</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::transform_request]]></content>
+<tabTrigger>HTTP::transform_request</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::transform_request...</description>
+</snippet>

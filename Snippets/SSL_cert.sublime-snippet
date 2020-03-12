@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SSL::cert ${1:count}]]></content>
+<tabTrigger>SSL::cert</tabTrigger><scope>source.appshape</scope>
+<description>SSL::cert...</description>
+</snippet>

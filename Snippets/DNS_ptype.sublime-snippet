@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[DNS::ptype]]></content>
+<tabTrigger>DNS::ptype</tabTrigger><scope>source.appshape</scope>
+<description>DNS::ptype...</description>
+</snippet>

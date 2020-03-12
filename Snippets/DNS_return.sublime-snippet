@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[DNS::return]]></content>
+<tabTrigger>DNS::return</tabTrigger><scope>source.appshape</scope>
+<description>DNS::return...</description>
+</snippet>

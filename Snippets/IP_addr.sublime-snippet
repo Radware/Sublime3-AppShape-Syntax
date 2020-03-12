@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[IP::addr ${1:parse} ${2:[-ipv4} ${3:[-swap]} ${4:|} ${5:-ipv6]} ${6:<bytearray>} ${7:[<offset>]}]]></content>
+<tabTrigger>IP::addr</tabTrigger><scope>source.appshape</scope>
+<description>IP::addr...</description>
+</snippet>

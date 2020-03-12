@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::username]]></content>
+<tabTrigger>HTTP::username</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::username...</description>
+</snippet>

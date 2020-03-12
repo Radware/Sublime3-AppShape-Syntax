@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[snat ${1:<address>} ${2:[is_dynamic]} ${3:|} ${4:none}]]></content>
+<tabTrigger>snat</tabTrigger><scope>source.appshape</scope>
+<description>snat...</description>
+</snippet>

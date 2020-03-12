@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SSL::cipher ${1:bits}]]></content>
+<tabTrigger>SSL::cipher</tabTrigger><scope>source.appshape</scope>
+<description>SSL::cipher...</description>
+</snippet>

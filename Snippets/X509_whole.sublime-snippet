@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[X509::whole ${1:[<certificate>]}]]></content>
+<tabTrigger>X509::whole</tabTrigger><scope>source.appshape</scope>
+<description>X509::whole...</description>
+</snippet>

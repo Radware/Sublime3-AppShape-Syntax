@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[persist ${1:timeout} ${2:[-notouch]} ${3:<mode>} ${4:<value>} ${5:[any} ${6:virtual} ${7:|} ${8:any} ${9:service} ${10:|} ${11:any}]]></content>
+<tabTrigger>persist</tabTrigger><scope>source.appshape</scope>
+<description>: implementing persistent connections and manipulating the persistency table</description>
+</snippet>

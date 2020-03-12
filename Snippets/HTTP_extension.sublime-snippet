@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::extension]]></content>
+<tabTrigger>HTTP::extension</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::extension...</description>
+</snippet>

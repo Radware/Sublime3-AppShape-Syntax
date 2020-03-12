@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[service ${1:port}]]></content>
+<tabTrigger>service</tabTrigger><scope>source.appshape</scope>
+<description>service...</description>
+</snippet>

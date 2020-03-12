@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[DNS::question ${1:<name|type|class>} ${2:[<value>]}]]></content>
+<tabTrigger>DNS::question</tabTrigger><scope>source.appshape</scope>
+<description>DNS::question...</description>
+</snippet>

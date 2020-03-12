@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::redirect ${1:<URL>} ${2:[301} ${3:|} ${4:302} ${5:|} ${6:303} ${7:|} ${8:307]}]]></content>
+<tabTrigger>HTTP::redirect</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::redirect...</description>
+</snippet>

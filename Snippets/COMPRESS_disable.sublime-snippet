@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[COMPRESS::disable]]></content>
+<tabTrigger>COMPRESS::disable</tabTrigger><scope>source.appshape</scope>
+<description>COMPRESS::disable...</description>
+</snippet>

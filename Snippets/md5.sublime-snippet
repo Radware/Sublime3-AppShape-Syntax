@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[md5 ${1:<text>}]]></content>
+<tabTrigger>md5</tabTrigger><scope>source.appshape</scope>
+<description>md5...</description>
+</snippet>

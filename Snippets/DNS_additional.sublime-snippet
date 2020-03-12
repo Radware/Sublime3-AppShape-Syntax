@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[DNS::additional ${1:clear}]]></content>
+<tabTrigger>DNS::additional</tabTrigger><scope>source.appshape</scope>
+<description>DNS::additional...</description>
+</snippet>

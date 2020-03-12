@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SIP::via ${1:ttl} ${2:[<index>]}]]></content>
+<tabTrigger>SIP::via</tabTrigger><scope>source.appshape</scope>
+<description>SIP::via...</description>
+</snippet>

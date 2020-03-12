@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::payload ${1:clear}]]></content>
+<tabTrigger>HTTP::payload</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::payload...</description>
+</snippet>

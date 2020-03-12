@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::collect ${1:[<length>]}]]></content>
+<tabTrigger>HTTP::collect</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::collect...</description>
+</snippet>

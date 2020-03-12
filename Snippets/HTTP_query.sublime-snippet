@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::query]]></content>
+<tabTrigger>HTTP::query</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::query...</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::host]]></content>
+<tabTrigger>HTTP::host</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::host...</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::version ${1:[<"0.9"} ${2:|} ${3:"1.0"} ${4:|} ${5:"1.1">]}]]></content>
+<tabTrigger>HTTP::version</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::version...</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SIP::discard]]></content>
+<tabTrigger>SIP::discard</tabTrigger><scope>source.appshape</scope>
+<description>SIP::discard...</description>
+</snippet>

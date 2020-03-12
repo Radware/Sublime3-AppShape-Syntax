@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[X509::verify_signature ${1:<certificate>} ${2:<der|pem>} ${3:<hash} ${4:algo>} ${5:<signature>} ${6:<data>}]]></content>
+<tabTrigger>X509::verify_signature</tabTrigger><scope>source.appshape</scope>
+<description>X509::verify_signature...</description>
+</snippet>

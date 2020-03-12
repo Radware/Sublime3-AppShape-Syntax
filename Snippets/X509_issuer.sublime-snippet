@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[X509::issuer ${1:[<certificate>]}]]></content>
+<tabTrigger>X509::issuer</tabTrigger><scope>source.appshape</scope>
+<description>X509::issuer...</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SIP::method]]></content>
+<tabTrigger>SIP::method</tabTrigger><scope>source.appshape</scope>
+<description>SIP::method...</description>
+</snippet>

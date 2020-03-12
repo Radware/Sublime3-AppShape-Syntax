@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[SIP::uri ${1:[<uri>]}]]></content>
+<tabTrigger>SIP::uri</tabTrigger><scope>source.appshape</scope>
+<description>SIP::uri...</description>
+</snippet>

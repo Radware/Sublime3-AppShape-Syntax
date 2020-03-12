@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[event ${1:enable_all}]]></content>
+<tabTrigger>event</tabTrigger><scope>source.appshape</scope>
+<description>event...</description>
+</snippet>

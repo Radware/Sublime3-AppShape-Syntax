@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[X509::subject_public_key_type ${1:[<certificate>]}]]></content>
+<tabTrigger>X509::subject_public_key_type</tabTrigger><scope>source.appshape</scope>
+<description>X509::subject_public_key_type...</description>
+</snippet>

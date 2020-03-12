@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[RADIUS::avp ${1:clear_all}]]></content>
+<tabTrigger>RADIUS::avp</tabTrigger><scope>source.appshape</scope>
+<description>RADIUS::avp...</description>
+</snippet>

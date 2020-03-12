@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[IP::version]]></content>
+<tabTrigger>IP::version</tabTrigger><scope>source.appshape</scope>
+<description>IP::version...</description>
+</snippet>

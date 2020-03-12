@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[X509::verify_cert_error_string ${1:<error} ${2:code>}]]></content>
+<tabTrigger>X509::verify_cert_error_string</tabTrigger><scope>source.appshape</scope>
+<description>X509::verify_cert_error_string...</description>
+</snippet>

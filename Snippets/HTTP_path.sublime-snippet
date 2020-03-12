@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::path ${1:[path]}]]></content>
+<tabTrigger>HTTP::path</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::path...</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[DNS::authority ${1:clear}]]></content>
+<tabTrigger>DNS::authority</tabTrigger><scope>source.appshape</scope>
+<description>DNS::authority...</description>
+</snippet>

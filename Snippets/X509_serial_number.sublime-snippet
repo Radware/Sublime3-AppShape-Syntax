@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[X509::serial_number ${1:[<certificate>]}]]></content>
+<tabTrigger>X509::serial_number</tabTrigger><scope>source.appshape</scope>
+<description>X509::serial_number...</description>
+</snippet>

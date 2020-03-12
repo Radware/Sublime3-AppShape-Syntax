@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[DNS::search ${1:<answer|authority|additional|all>} ${2:[<name>]} ${3:[<name_len>]} ${4:[<type>]}]]></content>
+<tabTrigger>DNS::search</tabTrigger><scope>source.appshape</scope>
+<description>DNS::search...</description>
+</snippet>

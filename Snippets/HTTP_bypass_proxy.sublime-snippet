@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[HTTP::bypass_proxy]]></content>
+<tabTrigger>HTTP::bypass_proxy</tabTrigger><scope>source.appshape</scope>
+<description>HTTP::bypass_proxy...</description>
+</snippet>
