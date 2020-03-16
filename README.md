@@ -12,7 +12,7 @@ Sublime text 3 custom syntax pack for AppShape++ scripting
 
 ## Description ##
 This repository holds the Alteon AppShape++ scripting (mostly TCL) package for Sublime Text editor.<br>
-Using this package Sublime will be able to auto-complete knowen AppShape++ commands, apply coloring scheme as well as suggest command snipets<br>
+Using this package Sublime will be able to auto-complete known AppShape++ commands, apply coloring scheme as well as suggest command snipets<br>
 
 ## How To Use ##
 ### Import Into Sublime ###
