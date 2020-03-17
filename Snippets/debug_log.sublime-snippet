@@ -1,0 +1,5 @@
+<snippet>
+<content><![CDATA[if { \$static::debug } { log -a 7 "${1:<message>}"}]]></content>
+<tabTrigger>debug_log</tabTrigger><scope>source.appshape</scope>
+<description>: logs a message if "static::debug" != 0</description>
+</snippet>
